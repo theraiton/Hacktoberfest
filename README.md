@@ -1,4 +1,3 @@
 # Hacktoberfest
 First Change to hacktoberfest
-
-bjhbbjkbkk
+Trying to learn github
